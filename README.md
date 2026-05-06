@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi! I'm Danish
 
-<!--
-**DanishV-99/DanishV-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at WGU, based in Austin, TX. Interested in 
+cybersecurity broadly — particularly threat intelligence, detection 
+engineering, and digital forensics.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Running a homelab for hands-on practice with SIEM, IDS, and 
+  network monitoring tooling
+- Building small CLI tools to operate and monitor that lab
+- Finishing my BS in Computer Science at WGU
+
+## Areas I'm building skills in
+
+Detection engineering · SIEM (Wazuh) · Network monitoring (Suricata, 
+Wireshark) · Python scripting for security · Linux administration · 
+Docker · OT/ICS protocols and frameworks (IEC 62443, MITRE ATT&CK for ICS)
+
+## Find me
+
+https://www.linkedin.com/in/danish-veerani/ · dveeran@wgu.edu
