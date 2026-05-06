@@ -1,7 +1,7 @@
 # Hi! I'm Danish
 
 Computer Science student at WGU, based in Austin, TX. Interested in 
-cybersecurity broadly — particularly threat intelligence, detection 
+cybersecurity broadly. Particularly threat intelligence, detection 
 engineering, and digital forensics.
 
 ## What I'm working on
